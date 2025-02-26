@@ -1,0 +1,2 @@
+# Skripsi
+Nguli skripsi disini
