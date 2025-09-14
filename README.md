@@ -1,2 +1,2 @@
 # Skripsi
-Nguli skripsi disini
+Kode Skripsi Mohammad Haryodimas Dewantoro
